@@ -1,4 +1,4 @@
-# c2WvweTZ
+# color-tool
 
 Quick start:
 
